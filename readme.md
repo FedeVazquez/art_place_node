@@ -1,3 +1,5 @@
+//El proyecto funciona de manera local ya que no se subio a ningun servidor de hosteo y se requiere de la base hecha en mysql por lo cual esta subido solo por si se quiere ver/revisar el codigo
+
 E-Commerce: artplace
 
 Sitios de referencia:
